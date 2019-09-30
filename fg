@@ -1,1 +1,9 @@
-hi
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("Enter numbers to add: ");
+scanf("%d %d",&a,&l);
+printf("Sum is %d".(l+a));
+getch();
+}
