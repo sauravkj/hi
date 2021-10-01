@@ -2,8 +2,8 @@
 #include<conio.h>
 void main()
 {
-printf("Enter numbers to add: ");
+printf("Enter the numbers to add: ");
 scanf("%d %d",&a,&l);
-printf("Sum is: %d".(l+a));
+printf("Sum : %d".(l+a));
 getch();
 }
